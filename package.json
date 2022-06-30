@@ -1,0 +1,23 @@
+{
+  "name": "genius-type",
+  "version": "1.0.0",
+  "description": "A library of tools for javaScript data types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/geniusmanyxh/genius-storage",
+  "bugs": "https://github.com/geniusmanyxh/genius-storage/issues",
+  "keywords": [
+    "localStorage",
+    "sessionStorage",
+    "cookie",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geniusmanyxh/genius-storage"
+  },
+  "author": "geniusman",
+  "license": "ISC"
+}
