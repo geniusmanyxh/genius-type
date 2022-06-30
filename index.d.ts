@@ -158,7 +158,7 @@ declare module 'genius-type' {
     function isObject(params: any): boolean
 
     /**
-     * @description 判断值类型是否是一个function (函数) (指：function | class | () => )
+     * @description 判断值类型是否是一个function (函数) (指：function | class | () =>{} )
      * @param {any} params 传入想要判断类型的参数
      * @returns 是：true  | 否：false
      */
